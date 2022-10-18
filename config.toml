@@ -1,0 +1,37 @@
+# The URL the site will be built for
+base_url = "https://skyevg.neocities.org"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+theme = "terminimal"
+
+taxonomies = [
+    {name = "tags"},
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+logo_text = "Skye's Site"
+accent_color = "green"
+author = "Skye"
+favicon = "/favicon.png"
+favicon_mimetype = "image/png"
+menu_items = [
+    # each of these is optional, name and url are required
+    # $BASE_URL is going to be substituted by base_url from configuration
+    {name = "home", url = "$BASE_URL"},
+    
+    # tags should only be enabled if you have "tags" taxonomy
+    # see documentation below for more details
+    {name = "blog", url = "$BASE_URL/blog"},
+    {name = "tags", url = "$BASE_URL/tags"},
+    
+    # set newtab to true to make the link open in new tab
+    {name = "twitter", url = "https://twitter.com/skyevgreen/", newtab = true},
+]
