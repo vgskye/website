@@ -4,7 +4,6 @@
     <div class="post">
         {{ post_macros::header(page=page) }}
         {{ post_macros::content(page=page, summary=false) }}
-        {{ post_macros::earlier_later(page=page) }}
         <div class="comments">
             <script src="https://utteranc.es/client.js"
                 repo="vgskye/website-comments"
@@ -14,5 +13,6 @@
                 async>
             </script>
         </div>
+        {{ post_macros::earlier_later(page=page) }}
     </div>
 {% endblock content %}
