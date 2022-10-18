@@ -34,4 +34,5 @@ menu_items = [
     
     # set newtab to true to make the link open in new tab
     {name = "twitter", url = "https://twitter.com/skyevgreen/", newtab = true},
+    {name = "github", url = "https://github.com/vgskye", newtab = true},
 ]
