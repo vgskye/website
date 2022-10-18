@@ -11,3 +11,6 @@ Yeah that's kinda it
 
 EDIT:
 I forgot that I made my website [open source](https://github.com/vgskye/website) kinda
+
+EDIT 2:
+oh yeah for reasons the repo will probably remain private oops
