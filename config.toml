@@ -35,4 +35,7 @@ menu_items = [
     # set newtab to true to make the link open in new tab
     {name = "twitter", url = "https://twitter.com/skyevgreen/", newtab = true},
     {name = "github", url = "https://github.com/vgskye", newtab = true},
+    {name = "mastodon", url = "https://mastodon.skye.vg/web/@me", newtab = true},
+    {name = "cohost", url = "https://cohost.org/skyevg", newtab = true},
+    {name = "tumblr", url = "https://skye-vg.tumblr.com", newtab = true},
 ]
