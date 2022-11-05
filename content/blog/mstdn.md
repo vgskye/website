@@ -23,4 +23,4 @@ So, for example, let's say you have the account @user1234 at the server coolsns.
 For non-federated social media platforms, you can only interact with things on coolsns.egg.
 But in Mastodon, you can interact with things on other servers compatible with Mastodon.
 So in practice you can, for example, reply to a post ("toot" in Mastodon lings) by @me@skye.vg or follow @me@skye.vg.
-Mastodon is compatible with everything that supports ActivityPub, which includes itself (obviously), Plemora, PeerTube (yes, this is a YouTube-like), and more.
+Mastodon is compatible with everything that supports ActivityPub, which includes itself (obviously), Plemora, PeerTube (yes, there is a YouTube-like), and more.
