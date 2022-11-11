@@ -36,6 +36,6 @@ menu_items = [
     {name = "twitter", url = "https://twitter.com/skyevgreen/", newtab = true},
     {name = "github", url = "https://github.com/vgskye", newtab = true},
     {name = "mastodon", url = "https://mastodon.skye.vg/web/@me\" rel=\"me", newtab = true},
-    {name = "cohost", url = "https://cohost.org/skyevg", newtab = true},
+    # {name = "cohost", url = "https://cohost.org/skyevg", newtab = true},
     {name = "tumblr", url = "https://skye-vg.tumblr.com", newtab = true},
 ]
