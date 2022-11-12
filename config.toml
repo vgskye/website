@@ -20,8 +20,8 @@ highlight_code = true
 logo_text = "Skye's Site"
 accent_color = "green"
 author = "Skye"
-favicon = "/favicon.png"
-favicon_mimetype = "image/png"
+favicon = "/favicon.svg"
+favicon_mimetype = "image/svg+xml"
 menu_items = [
     # each of these is optional, name and url are required
     # $BASE_URL is going to be substituted by base_url from configuration
