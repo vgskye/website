@@ -1,0 +1,3 @@
+/.well-known/openpgpkey/*
+  Access-Control-Allow-Origin: *
+  X-Robots-Tag: none
