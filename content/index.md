@@ -10,3 +10,4 @@ I like computers and unnecessary pedantry<sup>\[*[disputed](https://en.wikipedia
 I may or may not blog sometimes.
 
 My OpenPGP key fingerprint is [`CDEA7E0469E30885A7544B050104BC05F41B77B8`](/pubkey.txt).
+[My other, yubikey-backed key also exists.](other_pubkey.txt)
